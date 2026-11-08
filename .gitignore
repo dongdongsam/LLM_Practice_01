@@ -1,0 +1,44 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Visual Studio / VS Code
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.suo
+
+# OS / Temporary Files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+
+# Wwise Authoring Cache
+/WwiseProject/.cache/
+/WwiseProject/Cache/
+
+# Wwise User-specific Settings
+*.wproj.user
+
+# Keep Wwise Project, Audio Sources and SoundBanks
+# Do not ignore *.wproj, *.wwu, *.wav, *.bnk, *.wem
+# Do not ignore *.dll or Unity *.meta files
+
+# Local AI Settings
+.codex/
+.env
+.env.local
+
+# Wwise DLL, plugins, SoundBanks and Unity .meta files
+# are NOT ignored and will be tracked by Git.
